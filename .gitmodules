@@ -1,0 +1,3 @@
+[submodule "submodule/horarios"]
+	path = submodule/horarios
+	url = https://github.com/greconegro/horarios.git
